@@ -3,7 +3,7 @@ let games = [
     { id: "2", title: "Final Fantasy 7 Remake", platform: ["PS5", "Xbox"] },
     { id: "3", title: "Elden Ring", platform: ["PS5", "Xbox", "PC"] },
     { id: "4", title: "Mario Kart", platform: ["Switch"] },
-    { id: "5", title: "Pokemon Scarlet", platform: ["PS5", "Xbox", "PC"] },
+    { id: "5", title: "doremon Scarlet", platform: ["PS5", "Xbox", "PC"] },
   ];
   
   let authors = [
