@@ -8,8 +8,8 @@ let games = [
   
   let authors = [
     { id: "1", name: "mario", verified: true },
-    { id: "2", name: "yoshi", verified: false },
-    { id: "3", name: "peach", verified: true },
+    { id: "2", name: "aashi", verified: false },
+    { id: "3", name: "yuvika", verified: true },
   ];
   
   let reviews = [
